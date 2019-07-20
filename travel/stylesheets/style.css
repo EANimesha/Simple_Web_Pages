@@ -1,0 +1,79 @@
+/* CSS Document */
+
+.top{
+	background-color:rgba(228,140,62,1.00);
+	text-align:center;
+	margin:0 auto;
+}
+
+body,html{
+	margin:0;
+	height:auto;
+}
+
+.navbar{
+	width:100%;
+	float:left;
+	background-color:black;
+	color:white;
+}
+.navbar ul{
+	list-style:none;
+	margin:0 auto;
+}
+.navbar ul a{
+	display:block;
+	text-decoration:none;
+	padding:10px 83px;
+	color:white;
+}
+.navbar li{
+	float:left;
+}
+
+.content{
+	margin:0 auto;
+	width:70%;
+}
+figure{
+	display:inline-block;
+	margin:0px;
+	width:24%;
+}
+figure figcaption{
+	text-align:center;
+}
+
+figure img{
+	width:100%;
+	height:150px;
+}
+.text1{
+	background-color:rgba(108,179,224,1.00);
+	margin:0px;
+	padding:8px;
+}
+.text2{
+	background-color:rgba(231,196,120,1.00);
+	width:50%;
+	float:left;
+}
+.text3{
+	background-color:rgba(70,53,219,1.00);
+	color:white;
+	margin:0px;
+	float:right;
+	width:49%;
+}
+.text3 p{
+	text-align:justify;
+	padding:25px;
+}
+.foot{
+	background-color:rgba(183,166,167,1.00);
+	height:20px;
+	margin-bottom:0px;
+	margin-top:200px;
+	text-align:center;
+	
+}
